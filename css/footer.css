@@ -1,0 +1,13 @@
+.footer {
+    margin: auto;
+    max-width: 1200px;
+    background-color: aqua;
+    height: 110px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: blue;
+}

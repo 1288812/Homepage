@@ -1,0 +1,30 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 1000px;
+    margin: 10px 0px 20px 0px;
+}
+
+.table__Cell:hover {
+    background-color: white;
+    color: blue;
+}
+
+.table__Cell {
+    border: 1px solid rgb(10, 6, 248);
+    padding: 10px;
+    text-align: center;
+}
+
+.table__Headre {
+    background-color: rgb(2, 92, 10);
+    color: white;
+}
+
+.table__nomination {
+    background-color: rgb(106, 255, 163);
+}
+
+.article__received {
+    background-color: rgb(255, 157, 157);
+}

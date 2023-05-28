@@ -1,0 +1,26 @@
+.navigation__listContent {
+    text-align: center;
+}
+
+.navigation {
+    min-width: 250px;
+    background-color: white;
+    margin: 20px;
+    line-height: 1.5;
+    max-height: 340px;
+}
+
+.navigation__listItem {
+    margin: 15px 0;
+    color: red;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: blue;
+}
+
+.navigation__link:hover {
+    color: red;
+    border-bottom: 1px red solid;
+}

@@ -1,0 +1,39 @@
+.header {
+    background-color: rgb(234, 239, 241);
+}
+
+.header__button {
+    text-align: center;
+}
+
+.header__buttonChangeColor {
+    width: 100%;
+    background-color: white;
+    height: 30px;
+}
+
+.header__title {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.header__foto {
+    max-width: 250px;
+    margin: 20px;
+    max-height: 340px;
+}
+
+.header__nameFoto {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.header__description {
+    text-align: justify;
+    max-width: 600px;
+    line-height: 1.5;
+    min-width: 300px;
+    align-self: center;
+}

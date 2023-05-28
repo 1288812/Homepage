@@ -15,12 +15,13 @@ html {
     margin: auto;
     font-family: 'Lato', sans-serif;
     font-family: 'Montserrat', sans-serif;
+
 }
 
 .content {
     background-color: rgb(234, 239, 241);
     margin: auto;
-    padding-top: 10px;
+    padding: 20px;
 }
 
 .content.white {

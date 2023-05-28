@@ -1,7 +1,7 @@
 .article__borderLine {
     border-top: 2px solid rgb(17, 75, 36);
-    margin: -10px 20px 20px 20px;
-    padding: 10px 30px 30px 30px;
+
+    padding: 10px 50px 30px 50px;
     line-height: 1.5;
 }
 
@@ -22,15 +22,13 @@
 
 .article__filmography {
     display: flex;
-    justify-content: space-around;
-    margin: 20px;
     line-height: 2;
     flex-wrap: wrap;
 }
 
 .article__list {
     font-size: 12px;
-    padding-left: 20px;
+    padding: 5px 30px 10px 10px;
     font-weight: 600;
     flex: 1;
     min-width: 300px;
@@ -48,4 +46,9 @@
 
 .article__listYear {
     color: blue;
+}
+
+.article__item {
+    padding-left: 10px;
+    line-height: 2;
 }

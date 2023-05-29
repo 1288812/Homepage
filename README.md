@@ -1,5 +1,5 @@
 # Homepage4.1
-[przejdź do strony]
+[Przejdź do strony]
 
 
 

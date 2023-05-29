@@ -16,6 +16,8 @@ Strona posiada wygodną nawigację po spisie treści
 
 W filmografii, aby zobaczyć, ile lat miał Keanu Reeves, kiedy kręcono ten film, wystarczy kliknąć myszką na rok, w którym ten film został nakręcony.
 
+Pod pozycją nagrody i nominacje znajduje się tabela, w której zapisane są informacje kiedy i jaką nagrodę otrzymał Keanu Reeves grając w kinie
+
 
 
 

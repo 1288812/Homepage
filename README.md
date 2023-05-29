@@ -1,7 +1,7 @@
 # Homepage4.1
 [go to Keanu Reeves website]
 
-## Opis
+## Description
 ### On this page, you can find the following information:
 
 - #### biography

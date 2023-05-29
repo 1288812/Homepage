@@ -10,6 +10,8 @@
 - #### Nagrody i nominacje Keanu Reeves
 ![Keanu Reeves](https://github.com/1288812/Homepage4.1/blob/main/image/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_(46806576944)_(cropped).jpg?raw=true)
 
+Aby ułatwić czytanie, możesz zmienić tło strony, klikając „włącz jasny motyw”
+
 Strona posiada wygodną nawigację po spisie treści
 
 W filmografii, aby zobaczyć, ile lat miał Keanu Reeves, kiedy kręcono ten film, wystarczy kliknąć myszką na rok, w którym ten film został nakręcony.

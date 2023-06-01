@@ -1,5 +1,6 @@
 .header {
     background-color: rgb(234, 239, 241);
+
 }
 
 .header__button {
@@ -17,23 +18,67 @@
     padding-top: 40px;
 }
 
-.header__foto {
-    max-width: 250px;
-    margin: 20px;
-    max-height: 340px;
-}
 
 .header__nameFoto {
     display: flex;
     justify-content: space-between;
-    width: 100%;
-    flex-wrap: wrap;
+    justify-content: center;
 }
+
+@media (max-width: 992px) {
+    .header__nameFoto {
+        flex-wrap: wrap;
+
+    }
+
+    .header__description {
+        order: 2;
+    }
+
+}
+
+.header__foto {
+    margin: 20px;
+    max-height: 340px;
+    flex-shrink: 0;
+    flex-basis: 250px;
+}
+
 
 .header__description {
     text-align: justify;
-    max-width: 600px;
     line-height: 1.5;
-    min-width: 300px;
-    align-self: center;
+    min-width: 250px;
+    align-self: flex-end;
+    flex-grow: 1;
+    margin: auto 20px;
+}
+
+.header__navigation {
+    background-color: white;
+    margin: 20px;
+    line-height: 1.5;
+    flex-basis: 250px;
+    flex-shrink: 0;
+    max-height: 340px;
+}
+
+
+.header__navigationSubhead {
+    text-align: center;
+}
+
+.header__navigationlistItem {
+    margin: 15px 0;
+    color: red;
+}
+
+.header__navigationLink {
+    text-decoration: none;
+    color: blue;
+}
+
+.header__navigationLink:hover {
+    color: red;
+    border-bottom: 1px red solid;
 }

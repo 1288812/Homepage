@@ -23,15 +23,25 @@
 .article__filmography {
     display: flex;
     line-height: 2;
-    flex-wrap: wrap;
+
 }
 
 .article__list {
     font-size: 12px;
     padding: 5px 30px 10px 10px;
     font-weight: 600;
-    flex: 1;
     min-width: 300px;
+    flex-basis: 50%;
+}
+
+@media (max-width: 880px) {
+    .article__filmography {
+        flex-wrap: wrap;
+    }
+
+    .article__list {
+        width: 100%;
+    }
 }
 
 .article__container {
